@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Nowful Khan</h1>
-<h3 align="center">Hardwere hacker</h3>
+<h3 align="center">Hardware hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackernowful&label=Profile%20views&color=0e75b6&style=flat" alt="hackernowful" /> </p>
 
